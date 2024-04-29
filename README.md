@@ -1,3 +1,3 @@
 # python-bar-qr-code-generator
 
-Proyecto hecho en Python con interfaz Tkinter que permite ingresar un valor para crear un codigo QR o de Barras
+Project made in Python with a Tkinter interface that allows you to enter a value to create a QR or Barcode
